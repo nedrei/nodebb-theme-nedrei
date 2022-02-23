@@ -1,9 +1,6 @@
 {
-    "id": "nodebb-theme-nedrei",
-    "name": "Nedrei Theme for NodeBB",
-    "description": "Theme made for nedrei.pl",
-    "url": "https://github.com/nedrei/nodebb-theme-nedrei",
-    "screenshot": null,
-    "templates": "templates",
-    "staticDir": "static"
+    "id": "nodebb-theme-quickstart",
+    "name": "My Theme Name",
+    "description": "Enter a description here",
+    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
 }
